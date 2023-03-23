@@ -1,0 +1,10 @@
+package com.tricky.basic;
+
+public class PrintStar {
+
+	public static void main(String[] args) {
+		for(int row =0; row<5;row++) {
+			System.out.println("* ");
+		}
+	}
+}

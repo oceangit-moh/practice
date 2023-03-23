@@ -1,0 +1,7 @@
+package com.tricky.basic;
+
+public class LargestNumber {
+	public static void main(String[] args) {
+		
+	}
+}

@@ -1,0 +1,15 @@
+package com.tricky.basic;
+
+public class Swap {
+
+	public static void main(String[] args) {
+		int x=5;
+		int y=6;
+		int temp;
+		
+		temp=x;
+		x=y;
+		y=temp;
+	}
+
+}

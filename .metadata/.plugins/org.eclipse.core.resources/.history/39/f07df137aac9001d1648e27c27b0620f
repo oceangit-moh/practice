@@ -1,0 +1,13 @@
+package com.tricky.basic;
+
+public class PrintStar {
+
+	public static void main(String[] args) {
+		for(int row =1; row<5;row++) {
+			for(int numberOfStars =1; numberOfStars<5;numberOfStars++) {
+			System.out.println("* ");
+			}
+			System.out.println();
+		}
+	}
+}

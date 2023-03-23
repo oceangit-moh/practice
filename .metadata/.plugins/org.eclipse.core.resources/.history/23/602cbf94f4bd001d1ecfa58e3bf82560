@@ -1,0 +1,7 @@
+package com.practice.inheritance;
+
+public class B extends Parent{
+	public void m1() {
+		System.out.println("B");
+	}
+}

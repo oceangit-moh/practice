@@ -1,0 +1,17 @@
+package com.tricky.basic;
+
+import java.util.ArrayList;
+
+public class LargestNumber {
+	public static void main(String[] args) {
+		ArrayList<Integer> intArr = new ArrayList<Integer>();
+		intArr.add(3);
+		intArr.add(5);
+		intArr.add(6);
+		intArr.add(1);
+		intArr.add(9);
+		
+		for(Integer i : intArr ) {
+		System.out.println(i);
+	}
+}
